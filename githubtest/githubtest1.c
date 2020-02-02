@@ -6,7 +6,7 @@ int main(void)
 	
 	printf("edit it once oh...");
 
-	printf("����ȭ");
+	printf("µ¿±âÈ­");	//한글되는데
 
 	putchar('\n');
 

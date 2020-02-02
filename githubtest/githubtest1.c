@@ -6,5 +6,9 @@ int main(void)
 	
 	printf("edit it once oh...");
 
+	printf("µø±‚»≠");
+
+	putchar('\n');
+
 	return 0;
 }

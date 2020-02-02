@@ -2,7 +2,7 @@
 
 int main(void)
 {
-	printf("hello world!");
+	printf("hello world!");		// something new
 	
 	printf("edit it once oh...");	//주가가
 

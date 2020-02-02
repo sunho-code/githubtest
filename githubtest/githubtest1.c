@@ -9,6 +9,8 @@ int main(void)
 	printf("µ¿±âÈ­");	//한글되는데
 
 	putchar('\n');		// 민호
+	
+	//선호
 
 	//주석질중
 	return 0;

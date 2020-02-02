@@ -10,5 +10,6 @@ int main(void)
 
 	putchar('\n');
 
+	//주석질중
 	return 0;
 }
